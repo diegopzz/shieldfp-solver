@@ -3,4 +3,4 @@ This anti-bot can generate the payload name "shieldSessionId" used on a popular 
 This version is outdated.
 
  contact
- diegojpm@pm.me
+diego@bytewall.io
